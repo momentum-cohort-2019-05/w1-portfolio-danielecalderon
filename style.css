@@ -1,0 +1,15 @@
+img {
+    border-radius: 50%;
+  }
+  
+
+  .container {
+    grid-template-rows: 100px 300px;
+    grid-template-columns: 3fr 1fr;
+  }
+
+h1 {
+ color: red;
+
+}
+
