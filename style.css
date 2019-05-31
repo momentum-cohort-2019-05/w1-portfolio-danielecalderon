@@ -1,15 +1,30 @@
+/*html {
+    background-color: rgb(59, 117, 172);
+  }*/
+
+
+
 img {
     border-radius: 50%;
   }
   
 
-  .container {
-    grid-template-rows: 100px 300px;
-    grid-template-columns: 3fr 1fr;
+.test {
+     margin: 1em
+     backround-color: yellow;
+    /*display: flex;*/
   }
 
-h1 {
- color: red;
+/*h1 {
+ color: red;*/
 
+}
+
+body {
+background: 
+   url("http://www.astronomy.com/-/media/Images/News%20and%20Observing/News/2019/01/solar_systemmashup.jpg?mw=600")
+background-size: contain
+   no-repeat
+ 
 }
 
